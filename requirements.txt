@@ -1,4 +1,2 @@
 pandas
-anaconda
 numpy
-sklearn
