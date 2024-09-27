@@ -1,0 +1,4 @@
+pandas
+anaconda
+numpy
+sklearn
